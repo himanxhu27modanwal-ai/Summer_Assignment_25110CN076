@@ -14,5 +14,11 @@ Day 2 Programs
 3. Reverse of a Number
 4. Palindrome Number Check
 
+Day 3 Programs
+1. Number is Prime or Not
+2. LCM of Two Number
+3. GCD of Two Number
+4. Prime Number in a Range
+   
 Language Used
 - C Programming
