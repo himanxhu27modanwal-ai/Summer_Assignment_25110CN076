@@ -22,7 +22,7 @@ Day 3 Programs
 
 Day 4 programs 
 1. Fibonacci Series
-2. Nth Fibonacco Term
+2. Nth Fibonacci Term
 3. Armstrong Number
 4. Armstrong Number in a Range 
    
