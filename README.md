@@ -19,6 +19,12 @@ Day 3 Programs
 2. LCM of Two Number
 3. GCD of Two Number
 4. Prime Number in a Range
+
+Day 4 programs 
+1. Fibonacci Series
+2. Nth Fibonacco Term
+3. Armstrong Number
+4. Armstrong Number in a Range 
    
 Language Used
 - C Programming
