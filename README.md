@@ -24,7 +24,13 @@ Day 4 programs
 1. Fibonacci Series
 2. Nth Fibonacci Term
 3. Armstrong Number
-4. Armstrong Number in a Range 
+4. Armstrong Number in a Range
+
+Day 5 Programs
+1. Perfect Numbers
+2. Strong Numbers
+3. Factors of Numbers
+4. Largest Prime Factor
    
 Language Used
 - C Programming
