@@ -31,6 +31,12 @@ Day 5 Programs
 2. Strong Numbers
 3. Factors of Numbers
 4. Largest Prime Factor
+
+Day 6 programs 
+1. Decimal to Binary
+2. Binary to Decimal
+3. Count Set Bits in a Number
+4. x^n without pow() 
    
 Language Used
 - C Programming
