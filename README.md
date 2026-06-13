@@ -36,7 +36,13 @@ Day 6 programs
 1. Decimal to Binary
 2. Binary to Decimal
 3. Count Set Bits in a Number
-4. x^n without pow() 
+4. x^n without pow()
+
+Day 13 programs
+1. Input and Display array
+2. Sum and Average of array
+3. Largest and Smallest of array
+4. Even and Odd element of array 
    
 Language Used
 - C Programming
