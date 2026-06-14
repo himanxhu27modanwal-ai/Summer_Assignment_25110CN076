@@ -42,7 +42,13 @@ Day 13 programs
 1. Input and Display array
 2. Sum and Average of array
 3. Largest and Smallest of array
-4. Even and Odd element of array 
+4. Even and Odd element of array
+
+Day 14 programs 
+1. linear search
+2. Frequency of an Element
+3. Second Largest Element
+4. Duplicates in Array 
    
 Language Used
 - C Programming
