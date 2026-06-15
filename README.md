@@ -48,7 +48,14 @@ Day 14 programs
 1. linear search
 2. Frequency of an Element
 3. Second Largest Element
-4. Duplicates in Array 
+4. Duplicates in Array
+
+Day 15 programs
+1. Reverse array
+2. Rotate array Left
+3. Rotate array Right
+4. Move Zeroes to End 
+
    
 Language Used
 - C Programming
