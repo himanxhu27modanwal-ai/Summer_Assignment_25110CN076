@@ -54,7 +54,13 @@ Day 15 programs
 1. Reverse array
 2. Rotate array Left
 3. Rotate array Right
-4. Move Zeroes to End 
+4. Move Zeroes to End
+
+Day 16 progams 
+1. Missing Number in Array
+2. Maximum Frequency Element
+3. Pair with given Sum
+4. Remove Duplicates from Array
 
    
 Language Used
