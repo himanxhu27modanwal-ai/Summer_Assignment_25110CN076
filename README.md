@@ -62,6 +62,12 @@ Day 16 progams
 3. Pair with given Sum
 4. Remove Duplicates from Array
 
+Day 17 programs
+1. Merge Arrays
+2. Union of Arrays
+3. Intersection of Arrays
+4. Common element 
+
    
 Language Used
 - C Programming
