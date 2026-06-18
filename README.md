@@ -68,6 +68,11 @@ Day 17 programs
 3. Intersection of Arrays
 4. Common element 
 
-   
+Day 18 programs
+1. Bubble Sort
+2. Selection Sort
+3. Binary Search
+4. Sort Array in Descending Order
+
 Language Used
 - C Programming
