@@ -74,5 +74,23 @@ Day 18 programs
 3. Binary Search
 4. Sort Array in Descending Order
 
+Day 19 programs
+1. Add Matrices
+2. Subtract Matrices
+3. Transpose Matrix
+4. Diagonal Sum
+
+Day 20 programs
+1. Multiply Matrices
+2. Symmetric Matrix
+3. Row Wise Sum
+4. Column Wise Sum
+
+Day 21 programs
+1. String Length Without Strlen()
+2. Reverse a String
+3. Count Vowels and Consonants
+4. Convert lowercase into Uppercase  
+   
 Language Used
 - C Programming
