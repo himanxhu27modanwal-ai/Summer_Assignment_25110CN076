@@ -91,6 +91,13 @@ Day 21 programs
 2. Reverse a String
 3. Count Vowels and Consonants
 4. Convert lowercase into Uppercase  
-   
+
+Day 22 programs
+1. Palindrome String
+2. Count Words in a Sentence
+3. Character Frequency
+4. Remove Spaces from String
+
+
 Language Used
 - C Programming
