@@ -98,6 +98,30 @@ Day 22 programs
 3. Character Frequency
 4. Remove Spaces from String
 
+Day 23 programs 
+1. First Non Repeating Character
+2. First Repeating Character
+3. Anagram Strings
+4. Maximum Ocuuring Character 
 
+Day 24 programs 
+1. String Rotation
+2. Compress a String
+3. Find Longest Word
+4. Remove Duplicate character
+
+Day 25 programs 
+1. Merge two Sorted Array
+2. Find common Character in strings
+3. Sort Names Alphabetically
+4. Sort Words by length
+
+Day 26 programs 
+1. Number Guessing Game
+2. Voting Elegibility System
+3. ATM Simulation
+4. Quiz Application
+
+ 
 Language Used
 - C Programming
